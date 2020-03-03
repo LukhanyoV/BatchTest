@@ -1,3 +1,2 @@
 @echo off
-start vmplayer
-exit
+start wmplayer
